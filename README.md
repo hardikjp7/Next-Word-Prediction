@@ -31,7 +31,7 @@ The training process includes two epochs, and the model's performance can be obs
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/your-linkedin-profile)
+Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/hardikjp/)
 
 ## Note
 
